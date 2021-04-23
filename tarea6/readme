@@ -1,0 +1,14 @@
+Servidor (nodo 1 y 2 )
+
+-ServidorRMI.java 
+-ClaseRMI.java
+-InterfaceRMI.java
+
+Cliente (nodo 0)
+
+-ClienteRMI.java //Modificar localhost de la linea 9 y 10 por las ip globales de los servidores (nodo 1 y 2 respectivamente)
+-InterfaceRMI.java
+
+
+
+
